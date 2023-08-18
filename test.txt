@@ -6,6 +6,7 @@ git rm --cached
 git log
 git log --oneline
 git log --oneline --pretty
-git clone
+git clone <address>
 git remote -v
 git pull origin main
+git remote set-url --add origin
