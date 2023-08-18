@@ -6,3 +6,5 @@ git remote -v
 git pull
 git push
 git featch
+git remote remove origin
+git remote add origin
