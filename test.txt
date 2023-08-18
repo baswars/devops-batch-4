@@ -8,3 +8,4 @@ git log --oneline
 git log --oneline --pretty
 git clone
 git remote -v
+git pull origin main
