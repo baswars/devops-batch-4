@@ -10,3 +10,4 @@ git clone <address>
 git remote -v
 git pull origin main
 git remote set-url --add origin
+git show
