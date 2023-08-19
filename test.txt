@@ -11,3 +11,5 @@ git remote -v
 git pull origin main
 git remote set-url --add origin
 git show
+git config --global user.name
+git config --global user.email
