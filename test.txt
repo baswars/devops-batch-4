@@ -15,4 +15,6 @@ git config --global user.name
 git config --global user.email
 git push origin main
 git remote set-url --delete origin
-git -h 
+git -h
+git checkout -b dev
+git branch -d dev 
