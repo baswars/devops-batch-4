@@ -18,3 +18,5 @@ git remote set-url --delete origin
 git -h
 git checkout -b dev
 git branch -d dev 
+git switch master
+git checkout master
