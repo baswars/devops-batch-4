@@ -1,3 +1,8 @@
+git --version
+git commit -m 
+git add
+git log --oneline
+git log --oneline --preety
 git init
 git log
 git status
