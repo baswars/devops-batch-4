@@ -11,4 +11,5 @@ git remote add origin
 git push origin main
 git config --global user.name
 git config --global user.eamil
-git config --global edit
+git config --global --edit
+git config --global list
