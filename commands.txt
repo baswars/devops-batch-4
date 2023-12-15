@@ -20,3 +20,8 @@ git config --global user.name
 git config --global user.eamil
 git config --global --edit
 git config --global list
+git checkout -b
+git branch
+git checkout
+git switch
+git branch -d
